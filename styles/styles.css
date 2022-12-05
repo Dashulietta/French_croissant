@@ -1,0 +1,25 @@
+body {
+    color: #855136;
+   text-align: center;
+    background: #EFECDD;
+   
+}
+p {
+    font-size: 18px;
+    margin: 30px 0;
+}
+.container {
+    margin: 20px 80px;
+}
+
+.btn-primary {
+    background-color: #855136;
+    color: bisque;
+    border: bisque;
+   
+}
+.btn-primary:hover {
+    background-color: bisque;
+    color: #855136;
+    border: 1.5px #855136 solid;
+}
