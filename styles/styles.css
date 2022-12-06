@@ -3,16 +3,25 @@ body {
    text-align: center;
     background: #EFECDD;
    
+   
 }
 p {
     font-size: 18px;
     margin: 30px 0;
 }
-.container {
-    margin: 20px 80px;
+a {
+    color: #855136;
+    text-decoration: none;
+
+}
+a:hover {
+    color: #855136;
+    text-decoration: underline;
 }
 
+
 .btn-primary {
+    margin-top: 20px;
     background-color: #855136;
     color: bisque;
     border: bisque;
@@ -23,3 +32,4 @@ p {
     color: #855136;
     border: 1.5px #855136 solid;
 }
+
